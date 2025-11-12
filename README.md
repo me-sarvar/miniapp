@@ -1,3 +1,3 @@
 # miniapp
 
-A new Flutter project.
+A Telegram Mini App developed with Flutter
